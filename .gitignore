@@ -1,3 +1,6 @@
 .env
 .venv
 faq.db
+*/.venv
+*/models/*
+*/.python-version
